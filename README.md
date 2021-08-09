@@ -4,7 +4,7 @@
 <br>
 👉 Team CDIO members: Tran Quoc Tuan - Nguyen Dai Long - Huynh Van Khanh
 <br>
-👉 Program Winform, C#, Database...
+👉 Winform Programming, C#, Database...
 😈 Note: Product is in progress... Loading 65%
 <hr>
 <p align="center">
